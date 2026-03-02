@@ -1,4 +1,4 @@
-# UnrealUObjectTimeline
+# UObjectTimeline
 
 An Unreal Engine 5.6+ plugin that provides Timeline functionality for any UObject-derived class, breaking free from the standard Actor-only `UTimelineComponent` limitation.
 
